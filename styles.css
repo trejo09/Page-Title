@@ -1,0 +1,69 @@
+body {
+    background-image: url(https://media.istockphoto.com/photos/homemade-sourdough-bread-food-photography-recipe-idea-picture-id1057786788?k=20&m=1057786788&s=612x612&w=0&h=m8r8lf77o5MMcmzCP_UHw_zlNi1TsWNPkAJ09eeFS1M=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.pics {
+    display: inline-block;
+    margin: 20px;
+}
+
+.images {
+    margin: 25px 20px 25px 100px;
+    width: 300px;
+    border: 2px white none;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+}
+
+.drinks {
+    color: white;
+    padding: 20px;
+    border: 2px white dotted;
+    margin: 10px;
+}
+
+.caffeine {
+    color: white;
+    padding: 20px;
+    border: 2px white dotted;
+    margin: 10px;
+}
+
+.bread {
+    color: white;
+    padding: 20px;
+    border: 2px white dotted;
+    margin: 10px;
+
+}
+
+.text {
+    color: white;
+    text-align: center;
+    padding: 0px 100px 0px 100px;
+}
+
+.column {
+
+    justify-content: space-around;
+    display: flex;
+
+}
+
+.column2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+html {
+    font-family: 'Tapestry', cursive;
+    font-size: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+}
